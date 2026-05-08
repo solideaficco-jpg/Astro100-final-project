@@ -1,4 +1,4 @@
 # Astro100-final-project
-Solidea Ficco's final project for Astro 100
+This is Solidea Ficco's final project for Astro 100: Observational Astronomy, where she classifies supernova transient 2026atw.
 
-Testing the readme file
+Here is a brief description of each file in this repository and its uses:
